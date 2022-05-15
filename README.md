@@ -13,8 +13,8 @@ My background in economics and psychology helped shape the questions I had using
 I was interested in learning more about what variables help predict how much an Airbnb listing would cost per night, what impacts how guests rate the value of the listing, and what determined whether a host receives the accolade of 'Superhost'.
 
 ## File Descriptions
-<br> *listings* - dataset downloaded from Kaggle, with Seattle Airbnb data
-<br> *Project1* - code written to clean *listings* data and perform analyses
+<br> *listings.csv* - dataset downloaded from Kaggle, with Seattle Airbnb data
+<br> *Project1.ipynb* - code written to clean *listings* data and perform analyses
 <br> *blog_link* - blog discussing findings of analysis
 
 ## How to interact with this project
