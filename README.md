@@ -10,7 +10,7 @@ All libraries utilized were available through Anaconda:
 
 ## Project Motivations
 My background in economics and psychology helped shape the questions I had using open-source Airbnb data of Seattle listings.
-I was interested in learning more about what variables help predict how much an Airbnb listing would cost per night, what impacts how guests rate the value of the listing, and what determined whether a host receives the accolade of 'Superhost'.
+I was interested in learning more about what variables help predict how much an Airbnb listing would cost per night, whether we can accurately predict if a listing has received perfect scores on ratings, and what predicts whether a host receives the accolade of 'Superhost'.
 
 ## File Descriptions
 <br> *listings.csv* - dataset downloaded from Kaggle, with Seattle Airbnb data
