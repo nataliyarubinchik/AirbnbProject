@@ -15,7 +15,7 @@ I was interested in learning more about what variables help predict how much an 
 ## File Descriptions
 <br> *listings.csv* - dataset downloaded from Kaggle, with Seattle Airbnb data
 <br> *Project1.ipynb* - code written to clean *listings* data and perform analyses. Note that any row with a missing value was dropped from the final datasets prior to analysis in order to minimize bias. Imputing the missing values using mean or mode values would not be true to reality, and therefore I felt it best to use only complete observations. 
-<br> [Location, Location, Location —Data Behind Seattle Airbnb Listings Share the Secret to Success](https://medium.com/@nataliya.rubinchik/location-location-location-data-behind-seattle-airbnb-listings-share-the-secret-to-success-5b5de0f77dd0)- blog discussing findings of analysis
+<br> [Location, Location, Location —Data Behind Seattle Airbnb Listings Share the Secret to Success](https://medium.com/@nataliya.rubinchik/location-location-location-data-behind-seattle-airbnb-listings-share-the-secret-to-success-5b5de0f77dd0) - blog discussing findings of analysis
 
 ## How to interact with this project
 Any feedback regarding how the analysis was performed or recommendations for how to improve the code is greatly appreciated!
